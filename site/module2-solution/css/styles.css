@@ -46,7 +46,7 @@ h1 {
   position: relative;
   top: 8px;
   width: 22%;
-  left: 78.5%;
+  left: 86.5%;
 }
 
 #header2 {
@@ -58,7 +58,7 @@ h1 {
   position: relative;
   top: 8px;
   width: 22%;
-  left: 78.5%;
+  left: 86.5%;
 }
 
 #header3 {
@@ -70,7 +70,7 @@ h1 {
   position: relative;
   top: 8px;
   width: 32%;
-  left: 68.5%;
+  left: 76.5%;
 }
 
 /* Simple Responsive Framework. */
@@ -93,8 +93,8 @@ h1 {
   }
   .col-lg-3 {
     width: 25%;
-    margin-left: 80px;
-    margin-right: -40px;
+    margin-left: 100px;
+    margin-right: -60px;
   }
   .col-lg-4 {
     width: 33.33%;

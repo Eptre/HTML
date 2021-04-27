@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: #AD4228;
 }
@@ -9,14 +13,19 @@ body {
 #head-menu {
   font-size: 30px;
   color: #fff5ee;
+
 }
 
 #chicken {
   background-color: #924533;
   text-align: center;
-  font-size: 20px;
+  font-size: 50px;
   color: #fff5ee;
   border: 2px solid black;
   margin: 5% auto;
-  height: 1000px;
+  height: 100%;
+  width: 95%;
+  left: 2.5%;
+  padding: 30px;
+
 }
